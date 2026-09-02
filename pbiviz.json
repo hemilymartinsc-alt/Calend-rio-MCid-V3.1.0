@@ -6,13 +6,13 @@
     "visualClassName": "Visual",
     "version": "3.1.0.0",
     "description": "Calendário mensal executivo Full HD do Ministério das Cidades — V3.1.0: motor funcional V3.0.4 com interface Opção 2, previsões por quinzena, Sem Data, categorias, painel integrado e detalhes expansíveis.",
-    "supportUrl": "https://learn.microsoft.com/power-bi/developer/visuals/",
-    "gitHubUrl": ""
+    "supportUrl": "https://github.com/hemilymartinsc-alt/Calend-rio-MCid-V3.1.0/issues",
+    "gitHubUrl": "https://github.com/hemilymartinsc-alt/Calend-rio-MCid-V3.1.0"
   },
   "apiVersion": "5.10.0",
   "author": {
-    "name": "Projeto Calendário MCid",
-    "email": "developer@example.com"
+    "name": "Hemily Martins",
+    "email": "hemily.martins.c@gmail.com"
   },
   "assets": {
     "icon": "assets/icon.png"
